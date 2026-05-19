@@ -1,1 +1,36 @@
 /* your code */
+#tr1{
+	border:1px solid yellow;
+	color:white;
+	background-color:blue;
+}
+
+#tr2{
+	border:1px solid yellow;
+	color:black;
+	background-color:white;
+}
+
+
+#tr3{
+	border:1px solid yellow;
+	color:black;
+	background-color:lightgray;
+}
+
+
+#tr4{
+	border:1px solid yellow;
+	color:black;
+	background-color:white;
+}
+
+
+#tr5{
+	border:1px solid yellow;
+	color:black;
+	background-color:lightgray;
+}
+
+
+
